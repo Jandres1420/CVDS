@@ -1,0 +1,5 @@
+Integrantes: Ana Gabriela Silva B , Juan Andrés Pico M
+1) Sin parámetros: Imprime que un tipo de parametro de tipo RegularShapeType es requerido.(no funciona correctamente)
+2) (Parámetro: qwerty) Imprime que el parametro qwerty no es un RegularShapeType (no funciona)
+3) (Parámetro: pentagon) Imprime que el parametro pentagon no es un RegularShapeType ya que la p no esta en mayuscula (no funciona)
+4)(Parámetro Hexagon) Imprime que el numero de lados de un hexagono es 6 (esta bien)
