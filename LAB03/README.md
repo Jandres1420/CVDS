@@ -1,6 +1,6 @@
 ## *Laboratorio 3 - Clases de equivalencia*
 
-**Integrantes
+**Integrantes**
 - Juan Andrés Pico 
 - Ana Gabriela Silva
 
